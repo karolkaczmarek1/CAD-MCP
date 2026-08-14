@@ -155,3 +155,8 @@ CAD-MCP/
 ## License
 
 MIT License
+
+
+## Fixed by AGY
+This fork has been fixed and optimized specifically by Antigravity (AGY) to resolve mcp library compatibility issues and JSON-RPC initialization crashes when connecting to AGY.
+
